@@ -1,7 +1,7 @@
 import fileinput
 
-from sda.baza import Baza
-from sda.dyrektor import Dyrektor
+from sda.sda.baza import Baza
+from sda.sda.dyrektor import Dyrektor
 
 
 # TODO uzyć modulu tabulate do wyswietlania danych

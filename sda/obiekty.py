@@ -1,7 +1,7 @@
 import uuid
 from collections import defaultdict
 
-from sda.baza import ObiektBazy
+from sda.sda.baza import ObiektBazy
 
 
 class Temat(ObiektBazy):
